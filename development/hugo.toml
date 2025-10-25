@@ -1,4 +1,4 @@
-baseURL = "https://the-bao.netlify.app/"
+baseURL = "http://101.126.135.53:1313/"
 title = "RTY"
 theme = "hugo-coder"
 languageCode = "zh-cn"
@@ -23,6 +23,7 @@ unsafe = true
 
 [params]
 author = "RTY"
+environment = "development"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "RTY's personal website"
 keywords = "blog,developer,personal"
