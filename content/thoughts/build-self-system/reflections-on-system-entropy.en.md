@@ -5,7 +5,7 @@ authors = ["RTY"]
 description = "从数学角度理解熵，在实际生活应用"
 categories = ["思考","构建自己的内在系统"]
 tags = ["构建自己的内在系统", "自我思考"]
-draft = true
+draft = false
 toc = true
 +++
 
