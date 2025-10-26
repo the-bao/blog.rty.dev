@@ -182,25 +182,26 @@ url = "https://github.com/the-bao/"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+[languages.en.menu]
+    [[languages.en.menu.main]]
+    name = "About"
+    weight = 1
+    url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+    [[languages.en.menu.main]]
+    name = "Tech"
+    weight = 2
+    url = "tech/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+    [[languages.en.menu.main]]
+    name = "Thoughts"
+    weight = 3
+    url = "thoughts/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+    [[languages.en.menu.main]]
+    name = "Investment"
+    weight = 4
+    url = "investment/"
 
 # 多语言配置示例（可选）
 [languages.zh-cn]
@@ -212,22 +213,23 @@ info = "向外获得经验，向内追寻答案"
 description = "蹦蹦的个人博客"
 keywords = "博客，技术，思考"
 
-[[languages.zh-cn.menu.main]]
-name = "关于"
-weight = 1
-url = "about/"
+[languages.zh-cn.menu]
+    [[languages.zh-cn.menu.main]]
+    name = "关于"
+    weight = 1
+    url = "about/"
 
-[[languages.zh-cn.menu.main]]
-name = "博客"
-weight = 2
-url = "posts/"
+    [[languages.zh-cn.menu.main]]
+    name = "技术"
+    weight = 2
+    url = "tech/"
 
-[[languages.zh-cn.menu.main]]
-name = "项目"
-weight = 3
-url = "projects/"
+    [[languages.zh-cn.menu.main]]
+    name = "思考"
+    weight = 3
+    url = "thoughts/"
 
-[[languages.zh-cn.menu.main]]
-name = "联系"
-weight = 5
-url = "contact/"
+    [[languages.zh-cn.menu.main]]
+    name = "投资"
+    weight = 4
+    url = "investment/"
