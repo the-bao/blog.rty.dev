@@ -1,0 +1,3 @@
+.table-of-contents{background:#f8f9fa;border:1px solid #e9ecef;border-radius:8px;padding:1.5rem;margin:2rem 0}.table-of-contents h2{margin-top:0;color:#0062cc}#TableOfContents ul{list-style:none;padding-left:0}#TableOfContents li{margin:0.5rem 0}#TableOfContents a{color:#007bff;text-decoration:none;transition:color 0.3s ease}#TableOfContents a:hover{color:#0056b3;text-decoration:underline}
+
+/*# sourceMappingURL=toc.css.map */
